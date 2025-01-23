@@ -2,5 +2,5 @@
 <img src="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/snake.svg" alt="Snake animation" />
 
 
-
+###
 
