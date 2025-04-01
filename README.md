@@ -25,12 +25,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Frndzfreek&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"  />
 </div>
-
-##🤞 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph.svg">
-</picture>
-
-###
