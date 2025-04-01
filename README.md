@@ -1,4 +1,4 @@
-<h1 align="center"> HII I'M MADHU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hii I'M MADHU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 # 💫 Things About ME:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently learning OpenCV<br><img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2syZ29pc2Rqenc0NTB4Z3Y2NGVlZHVwcmM4eWRpOWg3YmNobTloaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NtY188QaxDdC/giphy.gif"  />
@@ -25,3 +25,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Frndzfreek&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"  />
 </div>
+
+##🤞 Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Frndzfreek/Frndzfreek/output/pacman-contribution-graph.svg">
+</picture>
+
+###
